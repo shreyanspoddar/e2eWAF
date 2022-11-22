@@ -10,3 +10,4 @@ We are going to create an end to end application in which we are going to access
 ## Documentation
 
 [END TO END](https://docs.google.com/document/d/1zv8eynjJ7RuA-vUwMibvWvNHtJkDV4uhDOb5jUSC6nY/edit?usp=sharing)
+[WAF](https://docs.google.com/document/d/1TKkhdttOoPYZf9ImMz6cFXZHnfwFMCVX2LmsAmPRiuU/edit?usp=sharing)
